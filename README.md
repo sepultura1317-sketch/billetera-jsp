@@ -5,7 +5,10 @@ Aplicación web desarrollada en **Java EE / Jakarta EE 10 (sin frameworks)** que
 ---
 
 ## 📋 Versiones y Requisitos del Entorno
-
+### Versiones utilizadas en esta entrega
+- JDK 25.0.1
+- Apache Maven 3.10.1
+- Apache Tomcat 10.1
 * **Java Development Kit (JDK):** JDK 17 o superior (compatible con JDK 17, 21 y 24)
 * **Servidor de Aplicaciones / Contenedor de Servlets:** Apache Tomcat 10.1.x (Jakarta EE 10 / Servlet 6.0 / JSP 3.1)
 * **Gestor de Dependencias y Construcción:** Apache Maven 3.9+
