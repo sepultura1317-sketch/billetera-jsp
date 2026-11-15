@@ -56,8 +56,7 @@ billetera-jsp/
 ### Opción B: Compilar desde el código fuente con Maven
 1. Clonar el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO_CASO_1>
-   cd billetera-jsp
+ git clone https://github.com/sepultura1317-sketch/billetera-jsp.git 
    ```
 2. Generar el paquete `.war`:
    ```bash

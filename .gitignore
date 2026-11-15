@@ -10,3 +10,4 @@ build_tmp/
 
 target/
 *.war
+!/billetera-jsp.war
